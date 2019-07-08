@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: [Muhammad Usama]
+plugins:
+  - jekyll-seo-tag
